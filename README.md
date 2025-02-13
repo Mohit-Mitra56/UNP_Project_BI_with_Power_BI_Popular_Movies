@@ -1,6 +1,6 @@
 # UNP_Project_BI_with_Power_BI_Popular_Movies
 
-This Power BI dashboard provides an interactive analysis of movie data, offering insights into trends, genres, and ratings. Users can interact with the dashboard to :
+As part of my internship with United Network of Professionals (UNP Education), I developed a Power BI dashboard to analyse Popular Movies. The dashboard tracks Vital KPIs such as Total movies, Total users, Total Ratings and Total tags & genres, providing valuable insights into Popular tags, Popular Geners over the years, Tag-Relevance and IMBD & TMBD links.
 
 - *Track trends over time:* Analyze movie releases, ratings, and revenue across years and decades.  
 - *Compare genres:* Explore popularity, ratings, and box office performance side by side.  
